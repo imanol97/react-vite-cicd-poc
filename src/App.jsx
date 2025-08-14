@@ -27,7 +27,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         La vieja mula ya no es lo que era.....
-      </p
+      </p>
     </>
   )
 }
